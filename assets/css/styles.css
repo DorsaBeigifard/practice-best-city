@@ -8,12 +8,6 @@
   text-decoration: none;
 }
 
-.clearfix::after {
-  content: " ";
-  clear: both;
-  display: table;
-}
-
 body,
 html {
   margin: 0;
